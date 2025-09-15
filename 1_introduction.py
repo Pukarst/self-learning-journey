@@ -11,6 +11,8 @@ Python is widely used in web-development,data science,machine learning,automatio
 Its clean syntax makes it great for beginners, while its powerful libraries 
 and frameworks make it popular among professionals.
 
+The extension of python is '.py'.
+
 +++++++++++++Features of Python+++++++++++++++++++++++++
 
 =It is simple and easy to understand.
