@@ -11,6 +11,15 @@ Python is widely used in web-development,data science,machine learning,automatio
 Its clean syntax makes it great for beginners, while its powerful libraries 
 and frameworks make it popular among professionals.
 
++++++++++++++Features of Python+++++++++++++++++++++++++
+
+=It is simple and easy to understand.
+=It is an open source programming language.
+=It has simple syntax similar to the English language.
+=It can be treated in a procedural way, an object oriented 
+way or the functional way.
+=It allows the user to write the program with the fewer lines
+than the other programming language.
 
 '''
 
