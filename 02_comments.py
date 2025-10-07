@@ -9,7 +9,6 @@ we use '#" to write the single line comment.
 we can use '#' in each line
         OR
 we can use "....." or '..........' .(Both are same)
-
 '''
 
 print('This is the single line.')
