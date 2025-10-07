@@ -23,7 +23,6 @@ g=int(0.001)
 h=float(20.01)
 print(f,g,h)  # o/p:  71.004 0 20.01
 
-
 '.....getting data type of variables...... '
 i=True
 j=2.020
