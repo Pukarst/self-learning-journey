@@ -24,3 +24,4 @@ print(j+','+k+' are the sports that I prefer to play during the free time.')
 prime_num=[2,3,5,7,11]
 l,m,n,o,p=prime_num
 print(l,m,n,o,p, 'are the first five prime number.')
+
