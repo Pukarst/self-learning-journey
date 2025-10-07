@@ -5,7 +5,6 @@
 + are case sensitive (small and capital letters makes different)
 + can't start with the number
 + can't be any of the keywords
-
 ======different technique of naming the variables==========
 1)camel case: each word except first letter start with capital letter
 2)pascal case: each word start with the capital letter
