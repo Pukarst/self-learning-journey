@@ -19,7 +19,8 @@ if 'sunday' in list_day:
     print('Yes,it is present in the list.')
 else:
     print('Please!! Enter the valid data.')
-if 'Sun' in list_day:
+
+if 'Sunday' in list_day: 
     print('yes')
 else:
-    print('no')
+    print('no')  # the o\p is no because of case-sensitive
